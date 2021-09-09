@@ -40,13 +40,13 @@
 
 /* Post button */
 .post-button {
-  padding-top: 0;
+  /* padding-top: 0; */
   background: transparent;
   border: none;
 }
 
 .post-button:hover {
-  background: transparent;
+  background-color: #e7e5e5;
 }
 
 a.post-button.btn:focus,
