@@ -5,6 +5,7 @@ const About = () => {
   return (
     <div className="justify-content-center d-flex mt-5">
       <Button
+        target="_blank"
         variant="primary"
         size="lg"
         href="https://github.com/Vannamnguyenn/NoteManagement"
